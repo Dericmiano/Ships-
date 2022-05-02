@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ships</string>
+    <string name="hint_search">search ship</string>
+    <string name="description">description</string>
+    <string name="ship_model">ship Model</string>
+    <string name="textname">WELCOME</string>
+    <string name="greatfullText">View Learn About Ships</string>
+    <string name="getStartedText">get Started</string>
+</resources>
